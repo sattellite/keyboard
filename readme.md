@@ -1,3 +1,3 @@
 # Firmwares for keyboards
 
-- [kbd D65](kbdfans/kbd67/mkiirgb/v3/readme.md)
+- [kbd D65](kbdfans/d65/readme.md)
