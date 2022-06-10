@@ -16,12 +16,16 @@ LTO_ENABLE = yes
 
 More info about VIA can be found [here](https://www.caniusevia.com/docs/configuring_qmk/).
 
-## Current layouts
+## Current layers
 
 ### Layer 1
 
 ![Layer 1](layer1.png)
 
-### Layout 2
+### Layer 2
 
 ![Layer 2](layer2.png)
+
+### Layer 3
+
+![Layer 3](layer3.png)
