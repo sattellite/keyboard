@@ -18,10 +18,10 @@ More info about VIA can be found [here](https://www.caniusevia.com/docs/configur
 
 ## Current layouts
 
-### Layout 1
+### Layer 1
 
-![Layout 1](layout1.png)
+![Layer 1](layer1.png)
 
 ### Layout 2
 
-![Layout 2](layout2.png)
+![Layer 2](layer2.png)
