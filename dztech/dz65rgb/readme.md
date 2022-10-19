@@ -29,3 +29,8 @@ More info about VIA can be found [here](https://www.caniusevia.com/docs/configur
 ### Layer 3
 
 ![Layer 3](layer3.png)
+
+## Modding
+
+DZ65 have output pins than can be used to underglow(qmk call it backlight). More info can be found here 
+https://halogenica.net/hardware/adding-underglow-to-dz65rgb-and-qmk/
